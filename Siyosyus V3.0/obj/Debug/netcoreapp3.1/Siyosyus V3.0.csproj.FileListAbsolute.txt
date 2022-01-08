@@ -1,0 +1,64 @@
+C:\Users\Bedi\source\repos\Siyosyus V3.0\Siyosyus V3.0\obj\Debug\netcoreapp3.1\Siyosyus V3.0.csproj.AssemblyReference.cache
+C:\Users\Bedi\source\repos\Siyosyus V3.0\Siyosyus V3.0\obj\Debug\netcoreapp3.1\Siyosyus V3.0.csproj.GenerateResource.cache
+C:\Users\Bedi\source\repos\Siyosyus V3.0\Siyosyus V3.0\obj\Debug\netcoreapp3.1\Siyosyus V3.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bedi\source\repos\Siyosyus V3.0\Siyosyus V3.0\obj\Debug\netcoreapp3.1\Siyosyus V3.0.AssemblyInfoInputs.cache
+C:\Users\Bedi\source\repos\Siyosyus V3.0\Siyosyus V3.0\obj\Debug\netcoreapp3.1\Siyosyus V3.0.AssemblyInfo.cs
+C:\Users\Bedi\source\repos\Siyosyus V3.0\Siyosyus V3.0\obj\Debug\netcoreapp3.1\Siyosyus V3.0.csproj.CoreCompileInputs.cache
+C:\Users\Bedi\source\repos\Siyosyus V3.0\Siyosyus V3.0\bin\Debug\netcoreapp3.1\Siyosyus V3.0.exe
+C:\Users\Bedi\source\repos\Siyosyus V3.0\Siyosyus V3.0\bin\Debug\netcoreapp3.1\Siyosyus V3.0.deps.json
+C:\Users\Bedi\source\repos\Siyosyus V3.0\Siyosyus V3.0\bin\Debug\netcoreapp3.1\Siyosyus V3.0.runtimeconfig.json
+C:\Users\Bedi\source\repos\Siyosyus V3.0\Siyosyus V3.0\bin\Debug\netcoreapp3.1\Siyosyus V3.0.runtimeconfig.dev.json
+C:\Users\Bedi\source\repos\Siyosyus V3.0\Siyosyus V3.0\bin\Debug\netcoreapp3.1\Siyosyus V3.0.dll
+C:\Users\Bedi\source\repos\Siyosyus V3.0\Siyosyus V3.0\bin\Debug\netcoreapp3.1\Siyosyus V3.0.pdb
+C:\Users\Bedi\source\repos\Siyosyus V3.0\Siyosyus V3.0\obj\Debug\netcoreapp3.1\Siyosyus_V3._0.Entrance.resources
+C:\Users\Bedi\source\repos\Siyosyus V3.0\Siyosyus V3.0\obj\Debug\netcoreapp3.1\Siyosyus_V3._0.Priest.resources
+C:\Users\Bedi\source\repos\Siyosyus V3.0\Siyosyus V3.0\obj\Debug\netcoreapp3.1\Siyosyus V3.0.dll
+C:\Users\Bedi\source\repos\Siyosyus V3.0\Siyosyus V3.0\obj\Debug\netcoreapp3.1\Siyosyus V3.0.pdb
+C:\Users\Bedi\source\repos\Siyosyus V3.0\Siyosyus V3.0\obj\Debug\netcoreapp3.1\Siyosyus V3.0.genruntimeconfig.cache
+C:\Users\Bedi\source\repos\Siyosyus V3.0\Siyosyus V3.0\obj\Debug\netcoreapp3.1\Siyosyus_V3._0.Archer.resources
+C:\Users\Bedi\source\repos\Siyosyus V3.0\Siyosyus V3.0\bin\Debug\netcoreapp3.1\Interop.AutoItX3Lib.dll
+C:\Users\Bedi\source\repos\Siyosyus V3.0\Siyosyus V3.0\obj\Debug\netcoreapp3.1\Interop.AutoItX3Lib.dll
+C:\Users\Bedi\source\repos\Siyosyus V3.0\Siyosyus V3.0\obj\Debug\netcoreapp3.1\Siyosyus V3.0.csproj.ResolveComReference.cache
+C:\Users\Damla\source\repos\Siyosyus V3.0\Siyosyus V3.0\Siyosyus V3.0\bin\Debug\netcoreapp3.1\Siyosyus V3.0.exe
+C:\Users\Damla\source\repos\Siyosyus V3.0\Siyosyus V3.0\Siyosyus V3.0\bin\Debug\netcoreapp3.1\Siyosyus V3.0.deps.json
+C:\Users\Damla\source\repos\Siyosyus V3.0\Siyosyus V3.0\Siyosyus V3.0\bin\Debug\netcoreapp3.1\Siyosyus V3.0.runtimeconfig.json
+C:\Users\Damla\source\repos\Siyosyus V3.0\Siyosyus V3.0\Siyosyus V3.0\bin\Debug\netcoreapp3.1\Siyosyus V3.0.runtimeconfig.dev.json
+C:\Users\Damla\source\repos\Siyosyus V3.0\Siyosyus V3.0\Siyosyus V3.0\bin\Debug\netcoreapp3.1\Siyosyus V3.0.dll
+C:\Users\Damla\source\repos\Siyosyus V3.0\Siyosyus V3.0\Siyosyus V3.0\bin\Debug\netcoreapp3.1\Siyosyus V3.0.pdb
+C:\Users\Damla\source\repos\Siyosyus V3.0\Siyosyus V3.0\Siyosyus V3.0\bin\Debug\netcoreapp3.1\Interop.AutoItX3Lib.dll
+C:\Users\Damla\source\repos\Siyosyus V3.0\Siyosyus V3.0\Siyosyus V3.0\obj\Debug\netcoreapp3.1\Siyosyus V3.0.csproj.AssemblyReference.cache
+C:\Users\Damla\source\repos\Siyosyus V3.0\Siyosyus V3.0\Siyosyus V3.0\obj\Debug\netcoreapp3.1\Interop.AutoItX3Lib.dll
+C:\Users\Damla\source\repos\Siyosyus V3.0\Siyosyus V3.0\Siyosyus V3.0\obj\Debug\netcoreapp3.1\Siyosyus V3.0.csproj.ResolveComReference.cache
+C:\Users\Damla\source\repos\Siyosyus V3.0\Siyosyus V3.0\Siyosyus V3.0\obj\Debug\netcoreapp3.1\Siyosyus_V3._0.Archer.resources
+C:\Users\Damla\source\repos\Siyosyus V3.0\Siyosyus V3.0\Siyosyus V3.0\obj\Debug\netcoreapp3.1\Siyosyus_V3._0.Entrance.resources
+C:\Users\Damla\source\repos\Siyosyus V3.0\Siyosyus V3.0\Siyosyus V3.0\obj\Debug\netcoreapp3.1\Siyosyus_V3._0.Priest.resources
+C:\Users\Damla\source\repos\Siyosyus V3.0\Siyosyus V3.0\Siyosyus V3.0\obj\Debug\netcoreapp3.1\Siyosyus V3.0.csproj.GenerateResource.cache
+C:\Users\Damla\source\repos\Siyosyus V3.0\Siyosyus V3.0\Siyosyus V3.0\obj\Debug\netcoreapp3.1\Siyosyus V3.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Damla\source\repos\Siyosyus V3.0\Siyosyus V3.0\Siyosyus V3.0\obj\Debug\netcoreapp3.1\Siyosyus V3.0.AssemblyInfoInputs.cache
+C:\Users\Damla\source\repos\Siyosyus V3.0\Siyosyus V3.0\Siyosyus V3.0\obj\Debug\netcoreapp3.1\Siyosyus V3.0.AssemblyInfo.cs
+C:\Users\Damla\source\repos\Siyosyus V3.0\Siyosyus V3.0\Siyosyus V3.0\obj\Debug\netcoreapp3.1\Siyosyus V3.0.csproj.CoreCompileInputs.cache
+C:\Users\Damla\source\repos\Siyosyus V3.0\Siyosyus V3.0\Siyosyus V3.0\obj\Debug\netcoreapp3.1\Siyosyus V3.0.dll
+C:\Users\Damla\source\repos\Siyosyus V3.0\Siyosyus V3.0\Siyosyus V3.0\obj\Debug\netcoreapp3.1\Siyosyus V3.0.pdb
+C:\Users\Damla\source\repos\Siyosyus V3.0\Siyosyus V3.0\Siyosyus V3.0\obj\Debug\netcoreapp3.1\Siyosyus V3.0.genruntimeconfig.cache
+C:\Users\Bedi\Downloads\Siyosyus V3.0\Siyosyus V3.0\Siyosyus V3.0\bin\Debug\netcoreapp3.1\Siyosyus V3.0.exe
+C:\Users\Bedi\Downloads\Siyosyus V3.0\Siyosyus V3.0\Siyosyus V3.0\bin\Debug\netcoreapp3.1\Siyosyus V3.0.deps.json
+C:\Users\Bedi\Downloads\Siyosyus V3.0\Siyosyus V3.0\Siyosyus V3.0\bin\Debug\netcoreapp3.1\Siyosyus V3.0.runtimeconfig.json
+C:\Users\Bedi\Downloads\Siyosyus V3.0\Siyosyus V3.0\Siyosyus V3.0\bin\Debug\netcoreapp3.1\Siyosyus V3.0.runtimeconfig.dev.json
+C:\Users\Bedi\Downloads\Siyosyus V3.0\Siyosyus V3.0\Siyosyus V3.0\bin\Debug\netcoreapp3.1\Siyosyus V3.0.dll
+C:\Users\Bedi\Downloads\Siyosyus V3.0\Siyosyus V3.0\Siyosyus V3.0\bin\Debug\netcoreapp3.1\Siyosyus V3.0.pdb
+C:\Users\Bedi\Downloads\Siyosyus V3.0\Siyosyus V3.0\Siyosyus V3.0\bin\Debug\netcoreapp3.1\Interop.AutoItX3Lib.dll
+C:\Users\Bedi\Downloads\Siyosyus V3.0\Siyosyus V3.0\Siyosyus V3.0\obj\Debug\netcoreapp3.1\Siyosyus V3.0.csproj.AssemblyReference.cache
+C:\Users\Bedi\Downloads\Siyosyus V3.0\Siyosyus V3.0\Siyosyus V3.0\obj\Debug\netcoreapp3.1\Interop.AutoItX3Lib.dll
+C:\Users\Bedi\Downloads\Siyosyus V3.0\Siyosyus V3.0\Siyosyus V3.0\obj\Debug\netcoreapp3.1\Siyosyus V3.0.csproj.ResolveComReference.cache
+C:\Users\Bedi\Downloads\Siyosyus V3.0\Siyosyus V3.0\Siyosyus V3.0\obj\Debug\netcoreapp3.1\Siyosyus_V3._0.Archer.resources
+C:\Users\Bedi\Downloads\Siyosyus V3.0\Siyosyus V3.0\Siyosyus V3.0\obj\Debug\netcoreapp3.1\Siyosyus_V3._0.Entrance.resources
+C:\Users\Bedi\Downloads\Siyosyus V3.0\Siyosyus V3.0\Siyosyus V3.0\obj\Debug\netcoreapp3.1\Siyosyus_V3._0.Priest.resources
+C:\Users\Bedi\Downloads\Siyosyus V3.0\Siyosyus V3.0\Siyosyus V3.0\obj\Debug\netcoreapp3.1\Siyosyus V3.0.csproj.GenerateResource.cache
+C:\Users\Bedi\Downloads\Siyosyus V3.0\Siyosyus V3.0\Siyosyus V3.0\obj\Debug\netcoreapp3.1\Siyosyus V3.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bedi\Downloads\Siyosyus V3.0\Siyosyus V3.0\Siyosyus V3.0\obj\Debug\netcoreapp3.1\Siyosyus V3.0.AssemblyInfoInputs.cache
+C:\Users\Bedi\Downloads\Siyosyus V3.0\Siyosyus V3.0\Siyosyus V3.0\obj\Debug\netcoreapp3.1\Siyosyus V3.0.AssemblyInfo.cs
+C:\Users\Bedi\Downloads\Siyosyus V3.0\Siyosyus V3.0\Siyosyus V3.0\obj\Debug\netcoreapp3.1\Siyosyus V3.0.csproj.CoreCompileInputs.cache
+C:\Users\Bedi\Downloads\Siyosyus V3.0\Siyosyus V3.0\Siyosyus V3.0\obj\Debug\netcoreapp3.1\Siyosyus V3.0.dll
+C:\Users\Bedi\Downloads\Siyosyus V3.0\Siyosyus V3.0\Siyosyus V3.0\obj\Debug\netcoreapp3.1\Siyosyus V3.0.pdb
+C:\Users\Bedi\Downloads\Siyosyus V3.0\Siyosyus V3.0\Siyosyus V3.0\obj\Debug\netcoreapp3.1\Siyosyus V3.0.genruntimeconfig.cache
+C:\Users\Bedi\Downloads\Siyosyus V3.0\Siyosyus V3.0\Siyosyus V3.0\obj\Debug\netcoreapp3.1\Siyosyus_V3._0.Pedal.resources

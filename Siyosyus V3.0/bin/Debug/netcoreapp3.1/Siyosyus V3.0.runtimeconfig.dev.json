@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Bedi\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Bedi\\.nuget\\packages"
+    ]
+  }
+}
